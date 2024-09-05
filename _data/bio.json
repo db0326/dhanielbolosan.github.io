@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dhaniel Bolosan",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/120779143?s=400&u=d0aa68403c49930fafc66af630858707fc2dabea&v=4",
+    "email": "dhaniel@hawaii.edu",
+    "phone": "",
+    "website": "https://dhanielbolosan.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "dhanielbolosan", "url": "https://github.com/dhanielbolosan" },
+      { "network": "linkedin", "username": "Dhaniel Bolosan", "url": "https://www.linkedin.com/in/dhaniel-bolosan/" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Science" },
+    { "name": "Software Development" },
+    { "name": "Web Development" },
+    { "name": "Game Development" },
+    { "name": "Video Games" }
   ],
   "skills": [
     {
