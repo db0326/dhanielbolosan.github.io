@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/RPSUI.png
 title: "First UI"
 date: 10-09-2023
 published: true
