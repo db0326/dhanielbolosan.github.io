@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/RPSUI.png
 title: "First UI"
-date: 10-09-2023
+date: 2023
 published: true
 labels:
   - Java
