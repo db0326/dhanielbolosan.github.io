@@ -15,7 +15,7 @@ So far I have mixed opinions about Typescript. [FreeCodeCamp’s Javascript tuto
 
 <img src="../img/typing-typescript-photo.png"
   height="250px" 
-  style="display: block; margin: 0 auto">
+  class="center">
 
 ## Coding and Conditioning
 
