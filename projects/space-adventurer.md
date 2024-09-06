@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SpaceAdventurerScreen.png
+image: img/space-adventurer-intro.png
 title: "2D Platformer"
 date: 2022
 published: true
