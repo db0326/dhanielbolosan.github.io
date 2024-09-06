@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RPSUI.png
+image: img/rps-ui.png
 title: "First UI"
 date: 2023
 published: true
