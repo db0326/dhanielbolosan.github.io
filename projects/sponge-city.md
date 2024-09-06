@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sponge-city.png
+image: img/sponge-city-icon.png
 title: "Sponge City"
 date: 2023
 published: true
