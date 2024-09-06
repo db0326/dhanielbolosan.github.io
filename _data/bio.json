@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "dhanielbolosan", "url": "https://github.com/dhanielbolosan" },
       { "network": "linkedin", "username": "Dhaniel Bolosan", "url": "https://www.linkedin.com/in/dhaniel-bolosan/" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
     ]
   },
   "interests": [
