@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typing It Right: My experience with Typescript"
+title: "Typing It Right: My Experience With Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
@@ -12,6 +12,8 @@ labels:
 ## My thoughts on Typescript so far...
 
 So far I have mixed opinions about Typescript. [FreeCodeCamp’s Javascript tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) and [W3Schools’ Typescript tutorial](https://www.w3schools.com/typescript/index.php) were my first introduction to using these programming languages. Prior to completing the tutorials, I have had previous experience working with other programming languages such as Python, C, C++, and Java through other college courses. This made a majority of the concepts pretty easy to understand and self explanatory. However, I did struggle a little bit on the later stages of the tutorial, especially on the ES6 section. I just found the syntax of ES6 to be a bit confusing. Despite my struggles, learning Javascript, ES6, and Typescript was a great and fun learning experience. I haven’t coded in a while and I am a bit rusty so it was a good way to get my gears turning. I believe Typescript is a good programming language and that there are many things that make Typescript a good language to work on. Hopefully with more time and practice, I can get better at utilizing Typescript and ES6.
+
+<img height="480px" src="../img/typing-typescript-photo.png">
 
 ## Coding and Conditioning
 
