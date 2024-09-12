@@ -23,6 +23,6 @@ While I consider my senior project to be a success, there are a few noticeable f
 My 2D platformer video game is playable on this website: [https://dbolo.itch.io/space-adventurer-demo]([https://www.youtube.com/watch?v=aQceChK-kC4](https://dbolo.itch.io/space-adventurer-demo)) 
 
 <p align="center">
-  <img src="../img/space-adventurer/space-adventurer-icon.png" width="1500px">
+  <img src="../img/space-adventurer/space-adventurer-inro.png" width="1500px">
 </p>
 
