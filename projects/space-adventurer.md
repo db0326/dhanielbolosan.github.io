@@ -20,7 +20,7 @@ Starting this project involved a steep learning curve. To get up to speed with u
 ## Glitches in the Galaxy
 While I consider my senior project to be a success as I was able to develop a functioning and somewhat enjoyable video game, there are a few noticeable flaws. One issue involves a bug where flying hostile creatures can phase through terrain and sometimes walking hostile creatures can float on air. Additionally, the sound design of my game is not that great and could be improved. For example, there are some instances, such as during the death scene or game over scene, where no sound effect plays.
  
-My 2D platformer video game is playable on this website: [https://dbolo.itch.io/space-adventurer-demo]([https://www.youtube.com/watch?v=aQceChK-kC4](https://dbolo.itch.io/space-adventurer-demo)) 
+My 2D platformer video game is playable on this website: [https://dbolo.itch.io/space-adventurer-demo](https://dbolo.itch.io/space-adventurer-demo) 
 
 <p align="center">
   <img src="../img/space-adventurer/space-adventurer-intro.png" width="1000px">
