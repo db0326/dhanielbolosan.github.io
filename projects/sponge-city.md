@@ -16,9 +16,9 @@ In my SSM 101 class, I was involved in a group project in which we tackled the c
 ## From Blueprint to Reality
 My primary role in the group project was to create detailed 3D models of every building within the city plan, which included commercial properties, residential housing, and a tourism building. I used Sketchup for this task, which allowed me to use my prior knowledge of AutoCAD and Blender to create visual representations of our designs. Other responsibilities in the group included creating slides, drawing blueprints for our city planning, and leading our presentation. <br>
 <p align="center">
-  <img src="../img/sponge-city/sponge-city-residential.PNG" style="display:inline-block;" width="500px">
-  <img src="../img/sponge-city/sponge-city-commercial.jpg" style="display:inline-block;" width="500px">
-  <img src="../img/sponge-city/sponge-city-hotel.PNG" style="display:inline-block;" width="500px">
+  <img src="../img/sponge-city/sponge-city-residential.PNG" style="display:inline-block;" width="300px">
+  <img src="../img/sponge-city/sponge-city-commercial.jpg" style="display:inline-block;" width="300px">
+  <img src="../img/sponge-city/sponge-city-hotel.PNG" style="display:inline-block;" width="300px">
 </p>
 ## Lessons in Sustainability
 Working on the group project allowed me to gain a better understanding of sustainability, Low Impact Development principles, and how to apply them into urban planning. Creating 3D models on SketchUp also helped me improve my skills in AutoCAD and Blender. Additionally, collaborating with my group helped me appreciate the importance of communication and teamwork.
