@@ -12,14 +12,21 @@ labels:
 summary: "My first user interface"
 ---
 ## Rock, Paper, Scissors... Swing?
-My first experience with scripting a user interface involved developing a simple Rock-Paper-Scissors game using Java and Swing. In this program, the user plays a game of Rock-Paper-Scissors against the computer and features a straightforward interface with buttons for Start, Instructions, Exit, and the three game choices—Rock, Paper, and Scissors. Additionally, the user interface has a display area showing game results and messages.
+My first experience with scripting a user interface involved developing a simple Rock-Paper-Scissors game using Java and Swing. In this program, the user plays a game of Rock-Paper-Scissors against the computer and features a straightforward interface with buttons for Start, Instructions, Exit, and the three game choices—Rock, Paper, and Scissors. Additionally, the user interface has a display area showing game results and messages. This program gave me hands-on experience with creating a user-friendly interface and event-driven programming.
+<p align="center">
+  <img src="../img/rock-paper-scissors/rps-ui.png" style="display:inline-block;" width="300px">
+  <img src="../img/rock-paper-scissors/rps-game.png" style="display:inline-block;" width="300px">
+</p>
+<p align="center">
+  <img src="../img/rock-paper-scissors/rps-instructions.png" width="300px">
+</p>
 
 ## Code Leak-oko
 The project was divided into three ```.java``` files: 
 <ul>
-  <li>```Game.java`` which handled the game mechanics</li>
-  <li>```GUIFrame.java``` which created the user interface and managed events</li>
-  <li>```RPS.java``` which served as the driver</li>
+  <li>Game.java which handled the game mechanics</li>
+  <li>GUIFrame.java which created the user interface and managed events</li>
+  <li>RPS.java which served as the driver</li>
 </ul>
 The game logic uses numerical values to represent game choices: 0 for Rock, 1 for Paper, and 2 for Scissors. A random number generator was then used to generate the computer’s choice based on these values, which is then compared with the player’s choice to determine the outcome of each round. 
 
@@ -53,6 +60,5 @@ The game logic uses numerical values to represent game choices: 0 for Rock, 1 fo
             computerScore++;                      // Increase Computer Score
             userWins = false;                     // Change userWins bool to false
         }
-
     }
 ```
