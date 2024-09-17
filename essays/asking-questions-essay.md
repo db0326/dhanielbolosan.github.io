@@ -41,7 +41,9 @@ function f () {
   b.red = "black";
 }
 ```
-By providing these specific scenarios, the poster demonstrates a desire to get a better understanding of pass by reference versus pass by value in Javascript rather than looking for a surface level answer. Furthermore, the answers they received reflect upon his the quality of his smart question as they provide a clear answer to his confusion
+By providing these examples, the poster demonstrates a desire to get a better understanding of pass by reference versus pass by value in Javascript rather than looking for a surface level answer. Furthermore, the answers they received reflect upon the quality of his smart question as they provide a clear answer to his confusion
 ## Not-So-Smart 
-An example of a not-so-smart question can be found on another StackOverflow post where the original poster asks the question, “[What’s the difference between JavaScript and Java?](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java)” Although this question may be a good question to ask for a beginner programmer, the manner in which the question was asked leaves much to be desired. The post simply copied and pasted the title as the question itself with the tags “java” and “javascript. This shows a lack of effort in researching the topic and fails to provide any context or examples. Consequently, the quality of responses reflects on the quality of this question. For example, the top voted sarcastically states, “Java and Javascript are similar like Car and Carpet are similar.”
-
+An example of a not-so-smart question can be found on another StackOverflow post where the original poster asks the question, “[What’s the difference between JavaScript and Java?](https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java)” Although this question may be a good question to ask for a beginner programmer, the manner in which the question was asked leaves much to be desired. The post simply copied and pasted the title as the question itself with the tags “java” and “javascript. This shows a lack of effort in researching the topic and fails to provide any context or examples. Consequently, the quality of responses reflects on the quality of this question. For example, the top voted answer sarcastically states, “Java and Javascript are similar like Car and Carpet are similar.”
+<p align="center">
+  <img src="../img/smart-questions/not-so-smart-questions.png" width="500px">
+</p>
