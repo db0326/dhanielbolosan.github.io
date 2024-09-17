@@ -18,7 +18,7 @@ My first experience with scripting a user interface involved developing a simple
   <img src="../img/rock-paper-scissors/rps-game.png" style="display:inline-block;" width="300px">
 </p>
 <p align="center">
-  <img src="../img/rock-paper-scissors/rps-instructions.png" width="300px">
+  <img src="../img/rock-paper-scissors/rps-instructions.png" width="600px">
 </p>
 
 ## Code Leak-oko
