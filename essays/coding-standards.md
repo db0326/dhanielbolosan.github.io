@@ -11,7 +11,7 @@ labels:
 
 ## Rules and Regulations
 
-At first glance, coding standards might seem like a bunch of unecessary nitpicky rules about indentation and using single quotation marks... and honestly, it definitely feels like that. While I recognize that coding standards help programmers write more efficient, readable, and cleaner code, I can't help but feel that following strict coding standards takes away the individuality in coding. Personally, I have my own way of writing code, but when using tools like ESLint, I often have to adjust the way I write my code. For example, here are some code snippets that reflect my personal style:
+At first glance, coding standards might seem like a bunch of unecessary nitpicky rules about things like indentation and using single quotation marks... and honestly, it kinda feels like that. I understand that coding standards help programmers write more efficient, readable, and cleaner code, but I can't help but feel that following strict coding standards takes away the individuality in coding. Personally, I have my own way of writing code, but when using tools like ESLint, I often have to adjust the way I write my code. For example, here are some code snippets that reflect my personal style:
 
 ```
 // Snippet 1:
@@ -25,7 +25,7 @@ function numWord(arr: string[]): number{
 class Menu{
   menuItems: menuItem[] = [];
 
-  addMenuItem(item: menuItem): void{
+  addMenuItem(item: menuItem){
     this.menuItems.push(item);
   }
 
@@ -57,7 +57,7 @@ function numWord(arr: string[]): number {
 class Menu {
   menuItems: menuItem[] = [];
 
-  addMenuItem(item: menuItem): void {
+  addMenuItem(item: menuItem) {
     this.menuItems.push(item);
   }
 
@@ -74,3 +74,5 @@ class Menu {
 ```
 
 ## Getting the Lint Off
+
+In the recent weeks in my ICS 314 class, we've been using ESLint with Visual Studio Code. I've been using Visual Studio Code for the past two years since I have started studying computer science, but this is the first time using ESLint. Although I did somewhat complain about coding standards earlier, I actually don't mind complying with them. It can be a bit tedious at times, especially when it disrupts my usual coding flow, but I can appreciate how it helps me improve my coding practices.
