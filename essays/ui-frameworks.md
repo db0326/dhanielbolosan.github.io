@@ -11,9 +11,9 @@ labels:
 
 ## Building Blocks
 
-I recently began my journey in learning web development, and like most people, I started with the basics: HTML and CSS. At first, it felt like I was constructing a website with building blocks. I could use headings, paragraphs, and images to format my website with HTMl. Then I could use CSS to add in a little bit of color and styling to my website.
+I recently began my journey in learning web development, and like most people, I started with the basics: HTML and CSS. At first, it felt like I was constructing a website with building blocks. I could use headings, paragraphs, and images to format my website with HTML. Then I could use CSS to add in a little bit of color and styling to my website.
 
-However, as I progressed, I realized that if I wanted to create more complex webistes, the basics might just not be enough. Yeah, I could create a simple website, but it lacked responsive designs and interactive features, making it feel a bit lackluster. For example, the first website I created was a one-page site that discussed the history of browser.
+However, as I progressed, I realized that if I wanted to create more complex webistes, the basics might just not be enough. Yeah, I could create a simple website, but it lacked responsive designs and interactive features making it feel a bit lackluster. For example, the first website I created was a one-page site that discussed the history of browser.
 
 <p align="center">
   <img src="../img/ui-frameworks/website-history-of-browsers.png" width="500px">
@@ -21,7 +21,7 @@ However, as I progressed, I realized that if I wanted to create more complex web
 
 ## Beyond HTML and CSS
 
-Fortunately, UI frameworks such as Bootstrap alleviated my concerns. Bootstrap provides a library of pre-designed components that help me build more visually appealing and functional websites. This library helps me maintain a consistent aesthetic throughout my website and speeds up the development process. Components like the grid system, navigation bars, buttons, dropdowns, and scrollers allow me to create intuitive layouts and improve user interaction.
+Fortunately, UI frameworks such as Bootstrap alleviated my concerns. Bootstrap provides a library of pre-designed components that help me build more visually appealing and functional websites. This library allows me to create more complex websites while speeding up my development process. Components like the grid system, navigation bars, buttons, dropdowns, and scrollers allow me to create intuitive layouts and improve user interaction.
 
 ## Mastering the Framework
 
