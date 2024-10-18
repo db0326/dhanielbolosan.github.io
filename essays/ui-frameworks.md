@@ -16,7 +16,7 @@ I recently began my journey in learning web development, and like most people, I
 However, as I progressed, I realized that if I wanted to create more complex webistes, the basics might just not be enough. Yeah, I could create a simple website, but it lacked responsive designs and interactive features making it feel a bit lackluster. For example, the first website I created was a one-page site that discussed the history of browser.
 
 <p align="center">
-  <img src="../img/ui-frameworks/website-history-of-browsers.png" width="1000px">
+  <img src="../img/ui-frameworks/website-history-of-browsers.png" width="750px">
 </p>
 
 ## Beyond HTML and CSS
@@ -24,7 +24,7 @@ However, as I progressed, I realized that if I wanted to create more complex web
 Fortunately, UI frameworks such as Bootstrap alleviated my concerns. Bootstrap provides a library of pre-designed components that help me build more visually appealing and functional websites. Components like the grid system, navigation bars, buttons, dropdowns, and scrollers allow me to create intuitive layouts and improve user interaction. In addition to its components, Bootstrap also has a library of logos and icons that we can use to enchance our websites.
 
 <p align="center">
-  <img src="../img/ui-frameworks/bootstrap-components.jpeg" width="500px">
+  <img src="../img/ui-frameworks/bootstrap-components.jpeg" height="500px">
 </p>
 
 ## Mastering the Framework
