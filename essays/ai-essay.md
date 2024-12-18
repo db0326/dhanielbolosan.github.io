@@ -38,7 +38,7 @@ Begin with an introduction to the role of AI in education and its specific relev
 8. **Asking or answering a smart-question**  
    Sentence
 
-9. **Coding example
+9. **Coding example**
    Sentence
 
 10. **Explaining code**  
