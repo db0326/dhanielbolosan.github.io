@@ -14,7 +14,7 @@ Begin with an introduction to the role of AI in education and its specific relev
 
 ## Personal Experience 
 1. Experience WODs
-   .
+   Sentence
 2. In-class Practice WODs
    .
 3. In-class WODs
