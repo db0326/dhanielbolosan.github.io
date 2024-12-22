@@ -11,7 +11,7 @@ labels:
 
 ## Rules and Regulations
 
-At first glance, coding standards might seem like a bunch of unecessary nitpicky rules about things like indentation and using single quotation marks... and honestly, it kinda feels like that. I understand that coding standards help programmers write more efficient, readable, and cleaner code, but I can't help but feel that following strict coding standards takes away the individuality in coding. Personally, I have my own way of writing code, but when using tools like ESLint, I often have to adjust the way I write my code. For example, here are some code snippets that reflect my personal style:
+At first glance, coding standards might seem like a bunch of unnecessary nitpicky rules about things like indentation and using single quotation marks... and honestly, it kinda feels like that. I understand that coding standards help programmers write more efficient, readable, and cleaner code, but I can't help but feel that following strict coding standards takes away the individuality in coding. Personally, I have my own way of writing code, but when using tools like ESLint, I often have to adjust the way I write my code. For example, here are some code snippets that reflect my personal style:
 
 ```
 // Snippet 1:

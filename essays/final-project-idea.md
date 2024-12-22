@@ -12,7 +12,7 @@ labels:
 
 ## Overview
 
-The Problem: College textbooks are expensive and many students frequently find themselves purchasing books that they will only need for one semester. These textbooks often become forgetten and remain unused, but they could be reused by other students who are seeking an affordable way to obtain college resources.
+The Problem: College textbooks are expensive and many students frequently find themselves purchasing books that they will only need for one semester. These textbooks often become forgotten and remain unused, but they could be reused by other students who are seeking an affordable way to obtain college resources.
 
 The Solution: Create an application that provides a platform for students to list, buy, sell, or exchange textbooks.
 
