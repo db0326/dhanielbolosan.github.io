@@ -13,10 +13,6 @@ labels:
 
 My ICS 314 Software Engineering class is coming to an end and it's been an excellent learning experience. While this class mostly focused on web application development, it still has taught me a lot when it comes to teaching me the fundamental concepts of software engineering. Some of the concepts I learned include **Agile Project Management**, **Configuration Management**, and **Design Patterns**. These three concepts, which I will discuss more thoroughly below, have been vital in this class and to my understanding of software engineering.
 
-<p align="center">
-  <img src="../img/software-engineering-essay/code.jpg" width="500px">
-</p>
-
 ## Agile Project Management
 
 Agile Project Management is an approach to managing projects in which tasks are broken down into small and manageable tasks (often called _sprints_). This approach emphasizes flexibility and collaboration and is highly beneficial for team collaboration. For example, in my ICS 314 class, I worked in a group of four people on a project to create a marketplace for second-hand books. Agile Project Management benefitted us by enabling us to effectively divide tasks and allow transparent collaboration between our members. We broke the project down into smaller and manageable _sprints_ with each member taking ownership of specific features such as the database, user interface, front end, back end, etc. Working in _sprints_ allowed us to develop our project relatively quickly and improve it based on feedback. If issues occurred, we could easily pivot and address them, whether it was a bug in the code or errors in an algorithm.
