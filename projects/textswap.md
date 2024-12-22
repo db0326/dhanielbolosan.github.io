@@ -99,8 +99,8 @@ My contributions to this project include both the front-end and back-end develop
 6. **Button Design**  
    I handled the functionality of various buttons on the site such as the add to cart, buy now, view details, and admin exclusive buttons.
 
-## [Deployment](https://manoa-textswap.vercel.app/)
+## [Deployment](https://manoa-textswap.vercel.app/) / [GitHub Page](https://textswap.github.io/Textswap/)
 
 <p align="center">
-  <img src="../img/textswap/landing.png" width="500px">
+  <img src="../img/textswap/landing.png" width="1000px">
 </p>

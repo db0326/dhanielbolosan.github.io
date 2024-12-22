@@ -7,10 +7,24 @@
     "phone": "",
     "website": "https://dhanielbolosan.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "", "region": "" },
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
     "profiles": [
-      { "network": "github", "username": "dhanielbolosan", "url": "https://github.com/dhanielbolosan" },
-      { "network": "linkedin", "username": "Dhaniel Bolosan", "url": "https://www.linkedin.com/in/dhaniel-bolosan/" },
+      {
+        "network": "github",
+        "username": "dhanielbolosan",
+        "url": "https://github.com/dhanielbolosan"
+      },
+      {
+        "network": "linkedin",
+        "username": "Dhaniel Bolosan",
+        "url": "https://www.linkedin.com/in/dhaniel-bolosan/"
+      }
     ]
   },
   "interests": [
@@ -23,11 +37,23 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python" ]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Typescript",
+        "Python",
+        "SQL",
+        "Next.js",
+        "Bootstrap",
+        "React",
+        "Prisma"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": ["MacOS", "Windows", "GitHub", "PostgreSQL"]
     }
   ],
   "education": [
@@ -37,8 +63,7 @@
       "studyType": "B.S.",
       "startDate": "2024",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Hawaii Maui College, Kahului, HI",
@@ -46,8 +71,7 @@
       "studyType": "A.S.",
       "startDate": "2022",
       "endDate": "2024",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "references": [
