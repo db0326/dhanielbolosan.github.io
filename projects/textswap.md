@@ -12,7 +12,7 @@ labels:
 summary: "Platform for students to purchase and sell textbooks."
 ---
 
-## Affordable Textbooks For Students
+## Affordable, Smart, and Easy Textbooks For Students
 
 TextSwap is a group project that was developed in my ICS 314 which aimed to provide an efficient and user-friendly platform for college students to buy and sell textbooks. The problem we aimed to address was the high cost of college textbooks and the fact that many students purchase books they only need for a short period, only for those books to go unused afterward. These textbooks could be repurposed by other students who are looking for an affordable, smart, and easy way to access much needed academic resources.
 
@@ -25,58 +25,51 @@ TextSwap offers a variety of features designed to create a seamless experience f
 - **Sign Up, Log In, Change Password**  
    Users can sign up for a new account, log into their existing account, or change their password for security.
 - **Navigation Bar**  
-   A navigation bar is located at te top of the screen and provides a way to navigate through the different pages of the website and also includes the options to sign up, log in, log out, or change passwords.
+   A navigation bar is located at the top of the screen and provides a way to navigate through the different pages of the website and also includes the options to sign up, log in, log out, or change passwords.
 
 - **Sell Page**  
-   Users can list textbooks for sale by submitting details about the book through a form. New listings are sent to an admin page for approval before becoming publicly visible.
-
+ Users can list textbooks for sale by submitting details about the book through a form. New listings are sent to an admin page for approval before becoming publicly visible.
 <p align="center">
   <img src="../img/textswap/list.png" width="500px">
 </p>
 
 - **Buy Page**  
-   This page displays all approved listings. Users can view book details, apply filters, and browse through available textbooks for purchase.
-
+ This page displays all approved listings. Users can view book details, apply filters, and browse through available textbooks for purchase.
 <p align="center">
   <img src="../img/textswap/buy.png" width="500px">
 </p>
 
 - **Cart Page**  
-   This page allows users to view and manage books they've saved for purchase. From here, users can either proceed to buy or remove items from their cart.
-
+ This page allows users to view and manage books they've saved for purchase. From here, users can either proceed to buy or remove items from their cart.
 <p align="center">
   <img src="../img/textswap/cart.png" width="500px">
 </p>
 
 - **Unique Book Pages**  
-   Each book has its own dedicated page and provides more in-depth information about the book. Additionally, users are given the option to buy the book or add the book to their cart.
-
+ Each book has its own dedicated page and provides more in-depth information about the book. Additionally, users are given the option to buy the book or add the book to their cart.
 <p align="center">
   <img src="../img/textswap/book.png" width="500px">
 </p>
 
 - **Account Page**  
-   The account page provides users with a personalized view of their profile and listings.
-
+ The account page provides users with a personalized view of their profile and listings.
 <p align="center">
   <img src="../img/textswap/account.png" width="500px">
 </p>
 
 - **Admin Page**  
-   Admins have the ability to review and approve or remove book new listings submitted by users.
-
+ Admins have the ability to review and approve or remove book new listings submitted by users.
 <p align="center">
   <img src="../img/textswap/admin.png" width="500px">
 </p>
 
-- **Payment Page**
-  The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process actually payments, it is designed to simulate a secure checkout experience.
-
+- **Payment Page**  
+The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process actually payments, it is designed to simulate a secure checkout experience.
 <p align="center">
   <img src="../img/textswap/payment.png" width="500px">
 </p>
 
-## My Contributions
+## Contributions
 
 My contributions to this project include both the front-end and back-end development:
 
