@@ -9,7 +9,7 @@ labels:
   - React
   - Prisma
   - Web Development
-summary: "Platform for students to purchase and sell textbooks."
+summary: "Platform for students to purchase and sell textbooks"
 ---
 
 ## Affordable, Smart, and Easy Textbooks For Students
