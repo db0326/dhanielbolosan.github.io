@@ -12,66 +12,65 @@ labels:
 summary: "Platform for students to purchase and sell textbooks."
 ---
 
-## Affordable Textbooks
+## Affordable Textbooks For Students
 
-TextSwap is a group project that was developed in my ICS 314 which aimed to provide an efficient and user-friendly platform for college students to buy and sell textbooks. The problem we aimed to address was the high cost of college textbooks and the fact that many students purchase books they only need for a short period, only for those books to go unused afterward. These textbooks could be repurposed by other students who are looking for an affordable, smart, and easy way to access much needed academic resources. Throughout development, we used various technologies and tools, including Next.js for the framework, React and Bootstrap for the front-end user interface, Javascript for functionality, Prisma and PostgreSQL for database management, Vercel for deployment, and many more.
+TextSwap is a group project that was developed in my ICS 314 which aimed to provide an efficient and user-friendly platform for college students to buy and sell textbooks. The problem we aimed to address was the high cost of college textbooks and the fact that many students purchase books they only need for a short period, only for those books to go unused afterward. These textbooks could be repurposed by other students who are looking for an affordable, smart, and easy way to access much needed academic resources.
 
-##### Creators: Dhaniel Bolosan, Ellie Ishii, Logan Teachout, Xingyao He
+Throughout development, we used various technologies and tools, including Next.js for the framework, React and Bootstrap for the front-end user interface, Javascript for functionality, Prisma and PostgreSQL for database management, Vercel for deployment, and many more. In the process, I gained valuable experience in full-sack development, particularly in building dynamic web applications and managing databases. I also learned the important of collaborative teamwork, version control, and deployment.
 
 ## Features and Functionality
 
 TextSwap offers a variety of features designed to create a seamless experience for students to buy, sell, and manage textbooks:
 
-1. **Sign Up, Log In, Change Password**  
+- **Sign Up, Log In, Change Password**  
    Users can sign up for a new account, log into their existing account, or change their password for security.
-
-2. **Navigation Bar**  
+- **Navigation Bar**  
    A navigation bar is located at te top of the screen and provides a way to navigate through the different pages of the website and also includes the options to sign up, log in, log out, or change passwords.
 
-3. **Sell Page**  
+- **Sell Page**  
    Users can list textbooks for sale by submitting details about the book through a form. New listings are sent to an admin page for approval before becoming publicly visible.
 
 <p align="center">
   <img src="../img/textswap/list.png" width="500px">
 </p>
 
-4. **Buy Page**  
+- **Buy Page**  
    This page displays all approved listings. Users can view book details, apply filters, and browse through available textbooks for purchase.
 
 <p align="center">
   <img src="../img/textswap/buy.png" width="500px">
 </p>
 
-5. **Cart Page**  
+- **Cart Page**  
    This page allows users to view and manage books they've saved for purchase. From here, users can either proceed to buy or remove items from their cart.
 
 <p align="center">
   <img src="../img/textswap/cart.png" width="500px">
 </p>
 
-6. **Unique Book Pages**  
+- **Unique Book Pages**  
    Each book has its own dedicated page and provides more in-depth information about the book. Additionally, users are given the option to buy the book or add the book to their cart.
 
 <p align="center">
   <img src="../img/textswap/book.png" width="500px">
 </p>
 
-7. **Account Page**  
+- **Account Page**  
    The account page provides users with a personalized view of their profile and listings.
 
 <p align="center">
   <img src="../img/textswap/account.png" width="500px">
 </p>
 
-8. **Admin Page**  
+- **Admin Page**  
    Admins have the ability to review and approve or remove book new listings submitted by users.
 
 <p align="center">
   <img src="../img/textswap/admin.png" width="500px">
 </p>
 
-9. **Payment Page**
-   The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process actually payments, it is designed to simulate a secure checkout experience.
+- **Payment Page**
+  The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process actually payments, it is designed to simulate a secure checkout experience.
 
 <p align="center">
   <img src="../img/textswap/payment.png" width="500px">
@@ -104,3 +103,5 @@ My contributions to this project include both the front-end and back-end develop
 <p align="center">
   <img src="../img/textswap/landing.png" width="1000px">
 </p>
+
+##### Creators: Dhaniel Bolosan, Ellie Ishii, Logan Teachout, Xingyao He
