@@ -24,6 +24,7 @@ TextSwap offers a variety of features designed to create a seamless experience f
 
 - **Sign Up, Log In, Change Password**  
    Users can sign up for a new account, log into their existing account, or change their password for security.
+
 - **Navigation Bar**  
    A navigation bar is located at the top of the screen and provides a way to navigate through the different pages of the website and also includes the options to sign up, log in, log out, or change passwords.
 
