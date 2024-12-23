@@ -65,7 +65,7 @@ TextSwap offers a variety of features designed to create a seamless experience f
 </p>
 
 - **Payment Page**  
-The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process actually payments, it is designed to simulate a secure checkout experience.
+The payment page allows users to securely complete transactions for textbooks they wish to purchase. However, we were unable to complete its functionality on time and instead is currently a placeholder and does not process payments. It is designed to simulate a secure checkout experience.
 <p align="center">
   <img src="../img/textswap/payment.png" width="500px">
 </p>
