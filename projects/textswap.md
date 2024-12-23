@@ -6,9 +6,9 @@ title: "TextSwap"
 date: 2024
 published: true
 labels:
-  - React
+  - React Bootstrap
   - Prisma
-  - Web Development
+  - Next.js
 summary: "Platform for students to purchase and sell textbooks"
 ---
 
