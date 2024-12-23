@@ -87,7 +87,7 @@ My contributions to this project include both the front-end and back-end develop
    I worked on styling and implementing the back-end functionality for the unique book pages. Using Next.js, I set up dynamic routes and created an API to fetch book details, ensuring each page displayed accurate and relevant book information.
 
 5. **Components**  
-   I contributed to creating reusable card components which are used across several pages (e.g., Buy Page, Cart Page, Admin Page, Account Page). This helped ensure consistency in design, styling, and functionality across the website. Each card component were created using Bootstrap React.
+   I contributed to creating reusable card components which are used across several pages (e.g., Buy Page, Cart Page, Admin Page, Account Page). This helped ensure consistency in design, styling, and functionality across the website. Each card component were created using React Bootstrap.
 
 6. **Button Design**  
    I handled the functionality of various buttons on the site such as the add to cart, buy now, view details, and admin exclusive buttons.
