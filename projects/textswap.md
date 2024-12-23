@@ -14,7 +14,7 @@ summary: "Platform for students to purchase and sell textbooks"
 
 ## Affordable, Smart, and Easy Textbooks For Students
 
-TextSwap is a group project that was developed in my ICS 314 which aimed to provide an efficient and user-friendly platform for college students to buy and sell textbooks. The problem we aimed to address was the high cost of college textbooks and the fact that many students purchase books they only need for a short period, only for those books to go unused afterward. These textbooks could be repurposed by other students who are looking for an affordable, smart, and easy way to access much needed academic resources.
+TextSwap is a group project that was developed in my ICS 314 Software Engineering class which aimed to provide an efficient and user-friendly platform for college students to buy and sell textbooks. The problem we aimed to address was the high cost of college textbooks and the fact that many students purchase books they only need for a short period, only for those books to go unused afterward. These textbooks could be repurposed by other students who are looking for an affordable, smart, and easy way to access much needed academic resources.
 
 Throughout development, we used various technologies and tools, including Next.js for the framework, React and Bootstrap for the front-end user interface, Javascript for functionality, Prisma and PostgreSQL for database management, Vercel for deployment, and many more. In the process, I gained valuable experience in full-sack development, particularly in building dynamic web applications and managing databases. I also learned the important of collaborative teamwork, version control, and deployment.
 
